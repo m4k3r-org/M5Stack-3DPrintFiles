@@ -13,6 +13,8 @@ M5Stack Proto board  -  AutoCAD  -  DXF & DWG -  Ken Tinker  -  https://github.c
 M5Stack-Open-6pin  -  STL  -  Suzukiken  -  https://www.thingiverse.com/thing:2800278
 <br />
 
+M5Stack Case with Tripod Thread  -  Switch Science  -  https://github.com/SWITCHSCIENCE/m5stack/tree/master/3D
+
 <br />
 
 Custom designed 3D case & proto board  -  Zazar  -  https://github.com/zazardev/M5Stack-Proto  
