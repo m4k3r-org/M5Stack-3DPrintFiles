@@ -21,8 +21,9 @@ Custom designed Proto board  - Zazar  -  Online Easy EDA  -  https://easyeda.com
 <br />
 <br />
 
-Make a Case of M5Stack  -  detailed discussion with many photos by Macsbug - demonstrating how to use some of the files above to create an extension to the M5Stack case. <br />
-https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fmacsbug.wordpress.com%2F2018%2F03%2F09%2Fmake-a-case-of-m5stack%2F&edit-text=
-<br />
+**"Make a Case of M5Stack"** <br />
+By Macsbug - detailed article discussing creation of some extensions to the M5Stack case. <br />
+
+Open link using Chrome for english translation   -   [Click here](https://macsbug.wordpress.com/2018/03/09/make-a-case-of-m5stack/)
 
 ![](M5Stack-3DCase-Photo.png?raw=true)
