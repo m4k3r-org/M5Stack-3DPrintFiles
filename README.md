@@ -1,7 +1,7 @@
 # M5Stack-3DPrintFiles
 <br />
 
-Official M5Stack 3D print files  - <a href="https://github.com/m5stack/M5-hardware" target=newtab>https://github.com/m5stack/M5-hardware</a>  
+Official M5Stack 3D print files  -  https://github.com/m5stack/M5-hardware</a>  
 <br />
 
 Proto board case for M5Stack  -  STL  -  Karl Norway  -   https://www.thingiverse.com/thing:2754642
