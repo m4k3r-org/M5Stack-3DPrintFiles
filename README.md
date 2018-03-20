@@ -10,6 +10,7 @@
 | M5Stack Proto board                | DXF/DWG    | Ken Tinker     |  [http://github.com/KenTinker/M5Stack-Prototype-ACAD](https://github.com/KenTinker/M5Stack-Prototype-ACAD-Files)       |
 | M5Stack-Open-6pin                  | STL        | Suzukiken      | https://www.thingiverse.com/thing:2800278                       |
 | Case with Tripod Thread            | STL        | SwitchScience  | https://github.com/SWITCHSCIENCE/m5stack/tree/master/3D         |
+| M5Stack Sensor Case                | STL        | Mario Rosas    | https://github.com/mrosasgit/M5Stack                            |
 | Custom Proto board                 | Easy EDA   | Zazardev       | https://easyeda.com/zazarltd                                    |
 | Custom Proto & Case                | Various    | Zazardev       | https://github.com/zazardev/M5Stack-Proto                       |
  
