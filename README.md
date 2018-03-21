@@ -2,8 +2,8 @@
 <br />
 <br />
 
-|![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png?raw=true)  | ![Sensorcase](Images/M5Stack-SensorCase.png?raw=true) |
-|--------------------------------------------------------------------|-------------------------------------------------------|
+|![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png?raw=true)  | ![Proto Board Case](Images/KarlNorway01.png?raw=true) | ![Proto Board Case](Images/KarlNorway02.png?raw=true) | ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png?raw=true) | ![Case with Tripod Thread](Images/Switchscience-Tripod.png) | ![Sensorcase](Images/M5Stack-SensorCase.png?raw=true) |  
+|--------|-------|------|--------|-----|--------|--------|
   
 <br />
 <br />
