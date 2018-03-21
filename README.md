@@ -2,7 +2,7 @@
 <br />
 <br />
 
-|![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png?raw=true)  | ![Proto Board Case](Images/KarlNorway01.png?raw=true) | ![Proto Board Case](Images/KarlNorway02.png?raw=true) | ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png?raw=true) | ![Case with Tripod Thread](Images/Switchscience-Tripod.png) | ![Sensorcase](Images/M5Stack-SensorCase.png?raw=true) |   ![Sensorcase](Images/Zazar-PCB.png?raw=true)
+|![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "M5Stack Proto")  | ![Proto Board Case](Images/KarlNorway01.png "Proto Board Case") | ![Proto Board Case](Images/KarlNorway02.png "Proto Board Case") | ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "M5Stack Open 6 Pin") | ![Case - Tripod Thread](Images/Switchscience-Tripod.png "Case - Tripod Thread") | ![Sensorcase](Images/M5Stack-SensorCase.png "Sensorcase") |   ![Custom Proto PCB](Images/Zazar-PCB.png "Custom Proto PCB")
 |--------|-------|------|--------|-----|--------|--------|
   
 <br />
@@ -15,7 +15,7 @@
 | Proto board case                   | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
 | M5Stack Proto board                | DXF/DWG    | Ken Tinker     |  [http://github.com/KenTinker/M5Stack-Prototype-ACAD](https://github.com/KenTinker/M5Stack-Prototype-ACAD-Files)       |
 | M5Stack-Open-6pin                  | STL        | Suzukiken      | https://www.thingiverse.com/thing:2800278                       |
-| Case with Tripod Thread            | STL        | SwitchScience  | https://github.com/SWITCHSCIENCE/m5stack/tree/master/3D         |
+| Case - Tripod Thread               | STL        | SwitchScience  | https://github.com/SWITCHSCIENCE/m5stack/tree/master/3D         |
 | M5Stack Sensor Case                | STL        | Mario Rosas    | https://github.com/mrosasgit/M5Stack3D                          |
 | Custom Proto board                 | Easy EDA   | Zazardev       | https://easyeda.com/zazarltd                                    |
 | Custom Proto & Case                | Various    | Zazardev       | https://github.com/zazardev/M5Stack-Proto                       |
@@ -29,4 +29,4 @@ Detailed article discussing and demonstrating the creation of custom case extens
 
 Open link using Chrome for English translation  -  [Click here](https://macsbug.wordpress.com/2018/03/09/make-a-case-of-m5stack/)
 
-![](M5Stack-3DCase-Photo.png?raw=true)
+![](Images/M5Stack-3DCase-Photo.png?raw=true)
