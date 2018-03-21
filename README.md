@@ -23,11 +23,9 @@
 <br />
 <br />
 
-**"Make a Case of M5Stack"** <br />
+**"Make a Case of M5Stack"** *by Macsbug* <br />
 
-Article by Macsbug.
-
-Detailed article discussing the creation of custom case extensions for the M5Stack. <br />
+Detailed article discussing and demonstrating the creation of custom case extensions for the M5Stack. <br />
 
 Open link using Chrome for English translation  -  [Click here](https://macsbug.wordpress.com/2018/03/09/make-a-case-of-m5stack/)
 
