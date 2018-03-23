@@ -11,7 +11,7 @@
 
 |             Title                  |  File type |  Author        | Link                                                            |
 | ---------------------------------- |:---------- | :--------------| :---------------------------------------------------------      |
-| **Official 3D print files**        | STL        | **M5Stack**    | https://github.com/m5stack/M5-hardware                          |
+| Official 3D print files            | STL        | M5Stack        | https://github.com/m5stack/M5-hardware                          |
 | Proto board case                   | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
 | M5Stack Proto board                | DXF/DWG    | Ken Tinker     |  [http://github.com/KenTinker/M5Stack-Prototype-ACAD](https://github.com/KenTinker/M5Stack-Prototype-ACAD-Files)       |
 | M5Stack-Open-6pin                  | STL        | Suzukiken      | https://www.thingiverse.com/thing:2800278                       |
