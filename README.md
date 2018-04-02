@@ -10,7 +10,7 @@ Hover cursor over image for project name.
 <br />
   
 
-|             Title                  |  File type |  Author        | Link                                                            |
+|             Project Name          |  File type |  Author        | Link                                                            |
 | ---------------------------------- |:---------- | :--------------| :---------------------------------------------------------      |
 | Official 3D print files            | STL        | M5Stack        | https://github.com/m5stack/M5-hardware                          |
 | Proto board case                   | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
