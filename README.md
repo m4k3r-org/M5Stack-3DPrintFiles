@@ -3,14 +3,14 @@ Hover cursor over image for project name.
 <br />
 <br />
 
-| ![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "M5Stack Proto")| ![Proto Board Case](Images/KarlNorway01.png "Proto Board Case") | ![Proto Board Case](Images/KarlNorway02.png "Proto Board Case")| ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "M5Stack Open 6 Pin")|![Case - Tripod Thread](Images/Switchscience-Tripod.png "Case - Tripod Thread")|![SensorCase](Images/SensorCase.png "SensorCase")|![Custom Proto PCB](Images/Zazar-PCB.png "Custom Proto PCB")
+| ![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "M5Stack Proto - Official 3D Print Files")| ![Proto Board Case](Images/KarlNorway01.png "Proto Board Case") | ![Proto Board Case](Images/KarlNorway02.png "Proto Board Case")| ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "M5Stack Open 6 Pin")|![Case - Tripod Thread](Images/Switchscience-Tripod.png "Case - Tripod Thread")|![SensorCase](Images/SensorCase.png "M5Stack SensorCase")|![Custom Proto PCB](Images/Zazar-PCB.png "Custom Proto PCB")
 |--------|-------|------|--------|-----|--------|--------|
   
 <br />
 <br />
   
 
-|             Project Name          |  File type |  Author        | Link                                                            |
+|             Project Name           |  File type |  Author        | Link                                                            |
 | ---------------------------------- |:---------- | :--------------| :---------------------------------------------------------      |
 | Official 3D print files            | STL        | M5Stack        | https://github.com/m5stack/M5-hardware                          |
 | Proto board case                   | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
