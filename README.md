@@ -3,7 +3,7 @@ Hover cursor over image for project name.
 <br />
 <br />
 
-| ![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "M5Stack Proto - Official 3D Print Files") | ![Oscilloscope Case](Images/M5Stack-OscilloscopeCase.png "Oscilloscope Case - Official 3D Print Files") | ![Proto Board Case](Images/KarlNorway01.png "Proto Board Case") | ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "M5Stack Open 6 Pin")|![Case - Tripod Thread](Images/Switchscience-Tripod.png "Case - Tripod Thread")|![SensorCase](Images/SensorCase.png "M5Stack SensorCase")|![Custom Proto PCB](Images/Zazar-PCB.png "Custom Proto PCB")
+| ![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "M5Stack Proto - Official 3D Print Files") | ![Oscilloscope Case](Images/M5Stack-OscilloscopeCase.png "Oscilloscope Case") | ![Proto Board Case](Images/KarlNorway01.png "Proto Board Case") | ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "M5Stack Open 6 Pin")|![Case - Tripod Thread](Images/Switchscience-Tripod.png "Case - Tripod Thread")|![SensorCase](Images/SensorCase.png "M5Stack SensorCase")|![Custom Proto PCB](Images/Zazar-PCB.png "Custom Proto PCB")
 |--------|-------|------|--------|-----|--------|--------|
   
 <br />
@@ -13,7 +13,7 @@ Hover cursor over image for project name.
 |             Project Name           |  File type |  Author        | Link                                                            |
 | ---------------------------------- |:---------- | :--------------| :---------------------------------------------------------      |
 | Official 3D print files            | STL        | M5Stack        | https://github.com/m5stack/M5-hardware                          |
-| Oscilloscope Case                  | STL        | Macsbug        | https://tinyurl.com/y9ypyq8t                                    | PrProto board case                   | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
+| Oscilloscope Case                  | STL        | Macsbug        | https://tinyurl.com/y9ypyq8t                                    |    | PrProto board case                 | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
 | M5Stack Proto board                | DXF/DWG    | Ken Tinker     | [http://github.com/KenTinker/M5Stack-Prototype-ACAD]            |
 | M5Stack-Open-6pin                  | STL        | Suzukiken      | https://www.thingiverse.com/thing:2800278                       |
 | Case - Tripod Thread               | STL        | SwitchScience  | https://github.com/SWITCHSCIENCE/m5stack/tree/master/3D         |
