@@ -13,7 +13,7 @@ Hover cursor over image for project name.
 |             Project Name           |  File type |  Author        | Link                                                            |
 | ---------------------------------- |:---------- | :--------------| :---------------------------------------------------------      |
 | Official 3D print files            | STL        | M5Stack        | https://github.com/m5stack/M5-hardware                          |
-| Oscilloscope Case                  | STL        | Macsbug        | https://tinyurl.com/y9ypyq8t                                    |    | PrProto board case                 | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
+| Oscilloscope Case                  | Avail soon | Macsbug        | https://tinyurl.com/y9ypyq8t                                    |    | PrProto board case                 | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
 | M5Stack Proto board                | DXF/DWG    | Ken Tinker     | [http://github.com/KenTinker/M5Stack-Prototype-ACAD]            |
 | M5Stack-Open-6pin                  | STL        | Suzukiken      | https://www.thingiverse.com/thing:2800278                       |
 | Case - Tripod Thread               | STL        | SwitchScience  | https://github.com/SWITCHSCIENCE/m5stack/tree/master/3D         |
