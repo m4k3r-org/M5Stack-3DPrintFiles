@@ -3,7 +3,7 @@ Hover cursor over image for project name.
 <br />
 <br />
 
-| ![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "M5Stack Proto - Official 3D Print Files") | ![Oscilloscope Case](Images/M5Stack-OscilloscopeCase.png "Oscilloscope Case") | ![Proto Board Case](Images/KarlNorway01.png "Proto Board Case") | ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "M5Stack Open 6 Pin")|![Case - Tripod Thread](Images/Switchscience-Tripod.png "Case - Tripod Thread")|![SensorCase](Images/SensorCase.png "M5Stack SensorCase")|![Custom Proto PCB](Images/Zazar-PCB.png "Custom Proto PCB")
+| ![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "M5Stack Proto - Official 3D Print Files") | [![Oscilloscope Case](Images/M5Stack-OscilloscopeCase.png "Oscilloscope Case - Click to view large image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/M5Stack-OscilloscopeCase-Lrg.png) | ![Proto Board Case](Images/KarlNorway01.png "Proto Board Case") | ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "M5Stack Open 6 Pin")|![Case - Tripod Thread](Images/Switchscience-Tripod.png "Case - Tripod Thread")|![SensorCase](Images/SensorCase.png "M5Stack SensorCase")|![Custom Proto PCB](Images/Zazar-PCB.png "Custom Proto PCB")
 |--------|-------|------|--------|-----|--------|--------|
   
 <br />
@@ -23,12 +23,15 @@ Hover cursor over image for project name.
  
 <br />
 <br />
+<br />
 
 ## "Make a Case of M5Stack" *by Macsbug* <br />
 
 Detailed article discussing and demonstrating the creation of custom case extensions for the M5Stack. <br />
 
-Open link using Chrome for English translation  -  [Click here](https://macsbug.wordpress.com/2018/03/09/make-a-case-of-m5stack/)
+Japanese - [Click here](https://macsbug.wordpress.com/2018/04/03/make-a-case-of-m5stack-oscilloscope/)
+
+English translation  -  [Click here](https://translate.google.com.au/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fmacsbug.wordpress.com%2F2018%2F04%2F03%2Fmake-a-case-of-m5stack-oscilloscope%2F&edit-text=&act=url)
 
 ![](Images/M5Stack-3DCase-Photo.png?raw=true)
 
@@ -44,6 +47,7 @@ Youtube video demontrating an automated wire cutting machine with settings contr
 
 Click picture to view video.
 
+<br />
 <br />
 
 [![Click to view video](Images/M5StackWireCutter.png?raw=true "Click to view video")](https://www.youtube.com/watch?v=lnvD2QNuBVE)
