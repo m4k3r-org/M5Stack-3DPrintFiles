@@ -3,7 +3,7 @@ Hover cursor over image for project name.
 <br />
 <br />
 
-| ![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "M5Stack Proto - Official 3D Print Files") | [![Oscilloscope Case](Images/M5Stack-OscilloscopeCase.png "Oscilloscope Case - Click to view large image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/M5Stack-OscilloscopeCase-Lrg.png) | ![Proto Board Case](Images/KarlNorway01.png "Proto Board Case") | ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "M5Stack Open 6 Pin")|![Case - Tripod Thread](Images/Switchscience-Tripod.png "Case - Tripod Thread")|![SensorCase](Images/SensorCase.png "M5Stack SensorCase")|![Custom Proto PCB](Images/Zazar-PCB.png "Custom Proto PCB")
+| [![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "M5Stack Proto - Official 3D Print Files - Click to view in 3D")](https://github.com/m5stack/M5-hardware/blob/master/PROTO.stl) | [![Oscilloscope Case](Images/M5Stack-OscilloscopeCase.png "Oscilloscope Case - Click to view large image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/M5Stack-OscilloscopeCase-Lrg.png) | ![Proto Board Case](Images/KarlNorway01.png "Proto Board Case") | ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "M5Stack Open 6 Pin")|![Case - Tripod Thread](Images/Switchscience-Tripod.png "Case - Tripod Thread")|![SensorCase](Images/SensorCase.png "M5Stack SensorCase")|![Custom Proto PCB](Images/Zazar-PCB.png "Custom Proto PCB")
 |--------|-------|------|--------|-----|--------|--------|
   
 <br />
