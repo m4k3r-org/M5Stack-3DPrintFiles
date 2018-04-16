@@ -43,7 +43,7 @@ English translation  -  [Click here](https://translate.google.com.au/translate?s
 
 Youtube video demontrating an automated wire cutting machine with settings controlled by the M5Stack.
 
-3D printing used to create holding device for wire cutters.
+3D printing used to create holding device for wire cutters. More details provided in the video description. 
 
 Click picture to view video.
 
