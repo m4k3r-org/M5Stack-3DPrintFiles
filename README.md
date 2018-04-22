@@ -51,6 +51,7 @@ English translation  -  [Click here](https://translate.google.com.au/translate?s
 <br />
 <br />
 <br /> 
+<br /> 
 
 
 ## Mounting "M5Stack on the Wall" *by Norifumo* <br />
@@ -62,14 +63,15 @@ Japanese text - [Click here](https://kitto-yakudatsu.com/archives/5284)
 English translation  -  [Click here](https://translate.google.com.au/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fkitto-yakudatsu.com%2Farchives%2F5284&edit-text=&act=url)
 
 <br /> 
+<br /> 
 
-![](Images/WallMount-Med.png?raw=true)
+   ![](Images/WallMount-MedMM.png?raw=true)   
 
 
 <br />
 <br />
 <br /> 
-
+<br /> 
 
 
 
