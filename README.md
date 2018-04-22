@@ -41,7 +41,7 @@ Hover cursor over image - some can be displayed in 3D or as a larger image.
 
 Detailed article discussing and demonstrating the creation of custom case extensions for the M5Stack. <br />
 
-Japanese - [Click here](https://macsbug.wordpress.com/2018/04/03/make-a-case-of-m5stack-oscilloscope/)
+Japanese text - [Click here](https://macsbug.wordpress.com/2018/04/03/make-a-case-of-m5stack-oscilloscope/)
 
 English translation  -  [Click here](https://translate.google.com.au/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fmacsbug.wordpress.com%2F2018%2F04%2F03%2Fmake-a-case-of-m5stack-oscilloscope%2F&edit-text=&act=url)
 
@@ -50,6 +50,30 @@ English translation  -  [Click here](https://translate.google.com.au/translate?s
 
 <br />
 <br />
+<br /> 
+
+
+## Mounting "M5Stack on the Wall" *by Norifumo* <br />
+
+Detailed article discussing and demonstrating how to make a wall mount for the M5Stack. Also available for purchase. <br />
+
+Japanese text - [Click here](https://kitto-yakudatsu.com/archives/5284)
+
+English translation  -  [Click here](https://translate.google.com.au/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fkitto-yakudatsu.com%2Farchives%2F5284&edit-text=&act=url)
+
+<br /> 
+
+![](Images/WallMount-Med.png?raw=true)
+
+
+<br />
+<br />
+<br /> 
+
+
+
+
+
 
 ## "M5Stack Wire Cutting Machine" *by Heinrich Hottarek* <br />
 
@@ -64,3 +88,6 @@ Click picture to view video.
 
 [![Click to view video](Images/M5StackWireCutter.png?raw=true "Click to view video")](https://www.youtube.com/watch?v=lnvD2QNuBVE)
 
+<br /> 
+<br /> 
+<br /> 
