@@ -20,7 +20,7 @@ Hover cursor over image - some can be displayed in 3D or as a larger image.
 
 |             Project Name           |  File type |  Author        | Link                                                            |
 | ---------------------------------- |:---------- | :--------------| :---------------------------------------------------------      |
-| Official 3D print files            | STL        | M5Stack        | https://github.com/m5stack/M5-hardware                          |
+| M5Stack official 3D files          | STL        | M5Stack        | https://github.com/m5stack/M5-hardware                          |
 | Oscilloscope Case                  | None (yet) | Macsbug        | https://tinyurl.com/y9ypyq8t                                    |  
 | Proto board case                   | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
 | M5Stack-Open-6pin                  | STL        | Suzukiken      | https://www.thingiverse.com/thing:2800278                       |
