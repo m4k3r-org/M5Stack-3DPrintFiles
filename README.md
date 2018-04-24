@@ -5,12 +5,14 @@ Hover cursor over image - some can be displayed in 3D or as a larger image.
 <br />
 <br />
 
-| [![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "Click to view in 3D")](https://github.com/m5stack/M5-hardware/blob/master/PROTO.stl) | [![Oscilloscope Case](Images/M5Stack-OscilloscopeCase.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/M5Stack-OscilloscopeCase-Lrg.png) |[![Proto Board Case](Images/ProtoBoard.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/ProtoBoardLrg.png) | [![Module Shells](Images/ModuleShells.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/ModuleShells-Lrg.png) | [![Wall Mount Case](Images/WallMount.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/WallMount-Lrg.png) | [![SensorCase](Images/SensorCase.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/SensorCase-Lrg.png) |![Custom Proto PCB](Images/Zazar-PCB.png) | 
-|-------|-------|------|--------|-----|--------|--------|
-| M5Stack| Oscilloscope | Proto board | Module Shell | Wall Mount | Sensor Case | Custom PCB  
-|  [![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "Click to view in 3D")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/m5stack-open-6pin.stl)  | [![Case - Tripod Thread](Images/Switchscience-Tripod.png "Click to view in 3D")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/m5stack-tripod-thread-10m.stl) | 
-|  Open 6 pin | Tripod Thread |     
+| [![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "Click to view in 3D")](https://github.com/m5stack/M5-hardware/blob/master/PROTO.stl) | [![Oscilloscope Case](Images/M5Stack-OscilloscopeCase.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/M5Stack-OscilloscopeCase-Lrg.png) |[![Proto Board Case](Images/ProtoBoard.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/ProtoBoardLrg.png) | [![Module Shells](Images/ModuleShells.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/ModuleShells-Lrg.png) | [![Wall Mount Case](Images/WallMount.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/WallMount-Lrg.png) | [![SensorCase](Images/SensorCase.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/SensorCase-Lrg.png) |  
+|-------|-------|------|--------|-----|--------|
+| M5Stack| Oscilloscope | Proto board | Module Shell | Wall Mount | Sensor Case | 
+|  [![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "Click to view in 3D")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/m5stack-open-6pin.stl)  | [![Case - Tripod Thread](Images/Switchscience-Tripod.png "Click to view in 3D")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/m5stack-tripod-thread-10m.stl) |  [![Custom Proto](Images/CustomProto.png "Click to view in 3D")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/CustomProto.stl) |  [![Custom PCB](Images/Zazar-PCB.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/CustomPCB-Lrg.png) | 
+|  Open 6 pin | Tripod Thread | Custom Proto | Custom PCB    
    
+  
+  
   
 <br />  
 <br />
