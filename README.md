@@ -5,7 +5,7 @@ Hover cursor over image - some can be displayed in 3D or as a larger image.
 <br />
 <br />
 
-| [![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "Click to view in 3D")](https://github.com/m5stack/M5-hardware/blob/master/PROTO.stl) | [![Oscilloscope Case](Images/M5Stack-OscilloscopeCase.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/M5Stack-OscilloscopeCase-Lrg.png)  |[![Proto Board Case](Images/ProtoBoard.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/ProtoBoardLrg.png) | ![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png)|![Case - Tripod Thread](Images/Switchscience-Tripod.png)|![SensorCase](Images/SensorCase.png)|![Custom Proto PCB](Images/Zazar-PCB.png)
+| [![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "Click to view in 3D")](https://github.com/m5stack/M5-hardware/blob/master/PROTO.stl) | [![Oscilloscope Case](Images/M5Stack-OscilloscopeCase.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/M5Stack-OscilloscopeCase-Lrg.png) |[![Proto Board Case](Images/ProtoBoard.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/ProtoBoardLrg.png) | [![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "Click to view in 3D")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/m5stack-open-6pin.stl) |![Case - Tripod Thread](Images/Switchscience-Tripod.png)|![SensorCase](Images/SensorCase.png)|![Custom Proto PCB](Images/Zazar-PCB.png)
 |-------|-------|------|--------|-----|--------|--------|
 | M5Stack| Oscilloscope | Proto board | Open 6 pin | Tripod Thread | Sensor | Custom PCB  
 | [![Wall Mount Case](Images/WallMount.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/WallMount-Lrg.png)  | [![Module Shells](Images/ModuleShells.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/ModuleShells-Lrg.png) |
@@ -29,7 +29,7 @@ Hover cursor over image - some can be displayed in 3D or as a larger image.
 | Custom Proto board                 | Easy EDA   | Zazardev       | https://easyeda.com/zazarltd                                    |
 | Custom Proto & Case                | Various    | Zazardev       | https://github.com/zazardev/M5Stack-Proto                       |
 | M5Stack Proto board                | DXF/DWG    | Ken Tinker     | http://github.com/KenTinker/M5Stack-Prototype-ACAD              |
-| Wall Mount                         | STL        | Norifumi       | https://tinyurl.com/ybh7uqua       https://tinyurl.com/y7ytzomu   |
+| Wall Mount                         | STL        | Norifumi       | https://kitto-yakudatsu.com/archives/5284                       |
 | Module Shells                      | STL        | Nao            | https://makerware.thingiverse.com/thing:2834201                 |
 
 
