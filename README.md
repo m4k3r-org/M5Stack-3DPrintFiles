@@ -7,7 +7,7 @@ Hover cursor over image - some can be displayed in 3D or as a larger image.
 
 | [![M5Stack Proto](Images/M5Stack-OriginalDesign-Proto.png "Click to view in 3D")](https://github.com/m5stack/M5-hardware/blob/master/PROTO.stl) | [![Oscilloscope Case](Images/M5Stack-OscilloscopeCase.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/M5Stack-OscilloscopeCase-Lrg.png) |[![Proto Board Case](Images/ProtoBoard.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/ProtoBoardLrg.png) | [![Module Shells](Images/ModuleShells.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/ModuleShells-Lrg.png) | [![Wall Mount Case](Images/WallMount.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/WallMount-Lrg.png) | [![SensorCase](Images/SensorCase.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/SensorCase-Lrg.png) |  
 |-------|-------|------|--------|-----|--------|
-| M5Stack| Oscilloscope | Proto board | Module Shell | Wall Mount | Sensor Case | 
+| Proto | Oscilloscope | Proto board | Module Shell | Wall Mount | Sensor Case | 
 |  [![M5Stack Open 6 Pin](Images/Suzukiken-Open-6pin.png "Click to view in 3D")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/m5stack-open-6pin.stl)  | [![Case - Tripod Thread](Images/Switchscience-Tripod.png "Click to view in 3D")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/m5stack-tripod-thread-10m.stl) |  [![Custom Proto](Images/CustomProto.png "Click to view in 3D")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/CustomProto.stl) |  [![Custom PCB](Images/Zazar-PCB.png "Click to view larger image")](https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/CustomPCB-Lrg.png) | 
 |  Open 6 pin | Tripod Thread | Custom Proto | Custom PCB    
    
@@ -21,7 +21,8 @@ Hover cursor over image - some can be displayed in 3D or as a larger image.
 
 |             Project Name           |  File type |  Author        | Link                                                            |
 | ---------------------------------- |:---------- | :--------------| :---------------------------------------------------------      |
-| M5Stack official files             | STL        | M5Stack        | https://github.com/m5stack/M5-hardware                          |
+| M5Stack Proto board                | STL PcbDoc | M5Stack        | https://github.com/m5stack/M5-hardware                          |
+| M5Stack Proto board                | DXF DWG    | Ken Tinker     | http://github.com/KenTinker/M5Stack-Prototype-ACAD              |
 | Oscilloscope Case                  | None (yet) | Macsbug        | https://tinyurl.com/y9ypyq8t                                    |  
 | Proto board case                   | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
 | Module Shells                      | STL        | Nao            | https://makerware.thingiverse.com/thing:2834201                 |
@@ -29,7 +30,6 @@ Hover cursor over image - some can be displayed in 3D or as a larger image.
 | M5Stack Sensor Case                | STL        | Mario Rosas    | https://github.com/mrosasgit/M5Stack3D                          |
 | Custom Proto board                 | Easy EDA   | Zazardev       | https://easyeda.com/zazarltd                                    |
 | Custom Proto & Case                | Various    | Zazardev       | https://github.com/zazardev/M5Stack-Proto                       |
-| M5Stack Proto board                | DXF/DWG    | Ken Tinker     | http://github.com/KenTinker/M5Stack-Prototype-ACAD              |
 | M5Stack-Open-6pin                  | STL        | Suzukiken      | https://www.thingiverse.com/thing:2800278                       |
 | Case - Tripod Thread               | STL        | SwitchScience  | https://github.com/SWITCHSCIENCE/m5stack/tree/master/3D         |
 
