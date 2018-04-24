@@ -31,7 +31,7 @@ Click on an image to view it in 3D or a larger size.
 | Sensor Case                        | STL        | Mario Rosas    | https://github.com/mrosasgit/M5Stack3D                          |
 | Open-6pin                          | STL        | Suzukiken      | https://www.thingiverse.com/thing:2800278                       |
 | Tripod Thread                      | STL        | SwitchScience  | https://github.com/SWITCHSCIENCE/m5stack/tree/master/3D         |
-| Custom Proto & Case                | Various    | Zazardev       | https://github.com/zazardev/M5Stack-Proto                       |
+| Custom Proto                       | Various    | Zazardev       | https://github.com/zazardev/M5Stack-Proto                       |
 | Custom PCB                         | Easy EDA   | Zazardev       | https://easyeda.com/zazarltd                                    |
 
 <br />
