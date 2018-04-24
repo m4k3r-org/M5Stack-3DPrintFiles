@@ -22,7 +22,7 @@ Hover cursor over image - some can be displayed in 3D or as a larger image.
 |             Project Name           |  File type |  Author        | Link                                                            |
 | ---------------------------------- |:---------- | :--------------| :---------------------------------------------------------      |
 | M5Stack Proto board                | STL PcbDoc | M5Stack        | https://github.com/m5stack/M5-hardware                          |
-| M5Stack Proto board                | DXF DWG    | Ken Tinker     | http://github.com/KenTinker/M5Stack-Prototype-ACAD              |
+| M5Stack Proto board                | DXF DWG    | Ken Tinker     | https://github.com/KenTinker/M5Stack-Prototype-ACAD-File        |
 | Oscilloscope Case                  | None (yet) | Macsbug        | https://tinyurl.com/y9ypyq8t                                    |  
 | Proto board case                   | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
 | Module Shells                      | STL        | Nao            | https://makerware.thingiverse.com/thing:2834201                 |
