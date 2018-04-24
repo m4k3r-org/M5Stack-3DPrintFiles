@@ -27,13 +27,11 @@ Hover cursor over image - some can be displayed in 3D or as a larger image.
 | Proto board case                   | STL        | Karl Norway    | https://www.thingiverse.com/thing:2754642                       |
 | Module Shells                      | STL        | Nao            | https://makerware.thingiverse.com/thing:2834201                 |
 | Wall Mount                         | STL        | Norifumi       | https://kitto-yakudatsu.com/archives/5284                       |
-| M5Stack Sensor Case                | STL        | Mario Rosas    | https://github.com/mrosasgit/M5Stack3D                          |
+| Sensor Case                        | STL        | Mario Rosas    | https://github.com/mrosasgit/M5Stack3D                          |
+| Open-6pin                          | STL        | Suzukiken      | https://www.thingiverse.com/thing:2800278                       |
+| Tripod Thread                      | STL        | SwitchScience  | https://github.com/SWITCHSCIENCE/m5stack/tree/master/3D         |
 | Custom Proto board                 | Easy EDA   | Zazardev       | https://easyeda.com/zazarltd                                    |
 | Custom Proto & Case                | Various    | Zazardev       | https://github.com/zazardev/M5Stack-Proto                       |
-| M5Stack-Open-6pin                  | STL        | Suzukiken      | https://www.thingiverse.com/thing:2800278                       |
-| Case - Tripod Thread               | STL        | SwitchScience  | https://github.com/SWITCHSCIENCE/m5stack/tree/master/3D         |
-
-
 
 <br />
 <br />
@@ -81,11 +79,15 @@ English translation  -  [Click here](https://translate.google.com.au/translate?s
 
 ## "M5Stack Wire Cutting Machine" *by Heinrich Hottarek* <br />
 
-Youtube video demontrating an automated wire cutting machine with settings controlled by the M5Stack.
+Here is a brief Youtube video demontrating an M5Stack wire cable cutting machine. 
 
-3D printing used to create holding device for wire cutters. More details provided in the video description. 
+The M5Stack controls the number of pieces of wire to be cut and the length required. 
 
-Click picture to view video.
+A 3D printed mounting holds the wire cutters in place. Further details provided in the video description. 
+
+The project is apparently associated with German fablab [FabLab Munchen](http://www.fablab-muenchen.de/)  
+
+Click the picture below to view the video.
 
 <br />
 <br />
