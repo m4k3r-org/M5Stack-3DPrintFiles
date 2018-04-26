@@ -47,8 +47,6 @@ Japanese text - [Click here](https://macsbug.wordpress.com/2018/03/09/make-a-cas
 
 English translation  -  [Click here](https://translate.googleusercontent.com/translate_c?act=url&depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com.au&sl=auto&sp=nmt4&tl=en&u=https://macsbug.wordpress.com/2018/03/09/make-a-case-of-m5stack/&xid=17259,15700021,15700124,15700149,15700168,15700173,15700186,15700201&usg=ALkJrhjX_0wWQKQuozkx7MEBB9llnyWSkQ)
 
-![](Images/M5Stack-3DCase-Photo.png?raw=true)
-
 <p align="center">
 <img src="https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/M5Stack-3DCase-Photo.png" height="290">
 </p>
@@ -87,8 +85,6 @@ English translation  -  [Click here](https://translate.google.com.au/translate?s
 
 <br /> 
 <br /> 
-
-   ![](Images/WallMount-MedMM.png?raw=true)   
 
 <p align="center">
 <img src="https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/WallMount-Lrg.png" height ="300">
