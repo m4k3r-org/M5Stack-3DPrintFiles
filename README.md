@@ -109,7 +109,7 @@ A 3D printed mounting holds the wire cutters in place. Further details provided 
 
 The project is apparently associated with German fablab [FabLab Munchen](http://www.fablab-muenchen.de/)  
 
-Click the picture below to view the video.
+Click the image below to view the video.
 
 <br />
 <br />
