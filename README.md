@@ -42,11 +42,33 @@ Click on an image to view it in 3D or a larger size.
 
 Detailed article discussing and demonstrating the creation of custom case extensions for the M5Stack. <br />
 
+
+Japanese text - [Click here](https://macsbug.wordpress.com/2018/03/09/make-a-case-of-m5stack/)
+
+English translation  -  [Click here](https://translate.googleusercontent.com/translate_c?act=url&depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com.au&sl=auto&sp=nmt4&tl=en&u=https://macsbug.wordpress.com/2018/03/09/make-a-case-of-m5stack/&xid=17259,15700021,15700124,15700149,15700168,15700173,15700186,15700201&usg=ALkJrhjX_0wWQKQuozkx7MEBB9llnyWSkQ)
+
+![](Images/M5Stack-3DCase-Photo.png?raw=true)
+
+<p align="center">
+<img src="https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/M5Stack-3DCase-Photo.png" height="290">
+</p>
+
+<br />
+<br />
+<br /> 
+<br /> 
+
+## "Make a Case of M5Stack ESP32 Oscilloscope" *by Macsbug* <br />
+
 Japanese text - [Click here](https://macsbug.wordpress.com/2018/04/03/make-a-case-of-m5stack-oscilloscope/)
 
 English translation  -  [Click here](https://translate.google.com.au/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=https%3A%2F%2Fmacsbug.wordpress.com%2F2018%2F04%2F03%2Fmake-a-case-of-m5stack-oscilloscope%2F&edit-text=&act=url)
 
-![](Images/M5Stack-3DCase-Photo.png?raw=true)
+
+<p align="center">
+<img src="https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/M5Stack-OscilloscopeCase-Lrg.png" width="290">
+</p>
+
 
 
 <br />
@@ -68,14 +90,17 @@ English translation  -  [Click here](https://translate.google.com.au/translate?s
 
    ![](Images/WallMount-MedMM.png?raw=true)   
 
+<p align="center">
+<img src="https://github.com/PartsandCircuits/M5Stack-3DPrintFiles/blob/master/Images/WallMount-Lrg.png" height ="300">
+</p>
+
+
+
 
 <br />
 <br />
 <br /> 
 <br /> 
-
-
-
 
 
 ## "M5Stack Wire Cutting Machine" *by Heinrich Hottarek* <br />
